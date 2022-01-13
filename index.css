@@ -136,6 +136,6 @@
 }
 .btn7:hover{
     transition: 0.3s;
-    transform:  rotateX(0deg) translateY(10px);
+    transform:  rotateX(0deg) translateY(12px);
     box-shadow: 0 0 0 rgb(255, 132, 0);
 }
